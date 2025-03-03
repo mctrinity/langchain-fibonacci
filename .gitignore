@@ -1,0 +1,85 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+code/.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# macOS and system files
+.DS_Store
+
+# Windows thumbnail cache
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.out
+*.err
+
+# Python package files
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Environment variables (Sensitive Data)
+.env
+.env.local
+.env.*.backup
+
+# LangChain Cache (if applicable)
+.langchain_cache/
+
+# Pytest and testing-related files
+.coverage
+htmlcov/
+pytest_cache/
+nose2-junit.xml
+junit-xml/
+
+# Dependency tracking
+pip-log.txt
+pip-delete-this-directory.txt
+poetry.lock
+
+# IDEs and Editors
+.idea/
+*.iml
+
+# Jupyter Notebook outputs
+*.ipynb_checkpoints/
+
+# Local database files
+*.sqlite
+*.db
+
+# Compiled Cython files
+*.so
+*.pyd
+
+# Black and other formatter/cache files
+.black/
+.mypy_cache/
+.pytest_cache/
+ruff_cache/
+
+# Generated documentation
+docs/_build/
+site/
+
+# Terraform, Docker, and Cloud-specific ignores
+.terraform/
+*.tfstate
+*.tfstate.backup
+Dockerfile
+docker-compose.yml
