@@ -194,6 +194,27 @@ class TestGenerateFibonacciSequence(unittest.TestCase):
 if __name__ == '__main__':
     unittest.main()
 ```
+---
+
+## **📌 Example: Running and Testing Fibonacci Function**
+### **Run the Fibonacci Function**
+```sh
+python fibonacci.py
+```
+
+### **Run the Fibonacci Unit Test**
+#### ✅ **Method 1: Run Directly**
+```sh
+python test_fibonacci.py
+```
+#### ✅ **Method 2: Using `unittest`**
+```sh
+python -m unittest test_fibonacci.py
+```
+#### ✅ **Method 3: Run All Tests in the Directory**
+```sh
+python -m unittest discover
+```
 
 ---
 
