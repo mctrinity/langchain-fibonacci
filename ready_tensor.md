@@ -1,6 +1,6 @@
 # LangChain as a Coding Assistant: Fibonacci & Unit Testing
 
-![Fibonacci Sequence](langchain-fibonacci.webp)
+![Fibonacci Sequence](https://raw.githubusercontent.com/mctrinity/langchain-fibonacci/refs/heads/main/langchain-fibonacci.webp)
 
 ## Abstract
 LangChain provides a powerful way to generate both **code** and **unit tests** automatically using LLMs. This publication explores how LangChain generates a **Python function for the Fibonacci sequence** and its corresponding **unit tests**, showcasing AI-assisted software development.
@@ -122,3 +122,4 @@ LangChain successfully generated both a **function** and **unit tests**, reducin
 ✍️ **Author:** Mary Ann Dizon
 🔗 **Connect:** [LinkedIn Profile](https://www.linkedin.com/in/mary-ann-dizon-ba336436/) / [GitHub](https://github.com/mctrinity)
 📌 **Publication on Ready Tensor**
+
